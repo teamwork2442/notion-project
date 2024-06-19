@@ -1,4 +1,4 @@
-package com.notion.notion.Model.Dto.search.forms;
+package com.quiz.quiz.Model.Dto.common;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -9,7 +9,11 @@ import lombok.Setter;
 @Getter
 @AllArgsConstructor
 @NoArgsConstructor
-public class BaseSearchForm{
-    private Integer page;
-    private Integer size;
+public class PageDto {
+
+    private Object data;
+
+    private long totalElements;
+
+    private long totalPage;
 }

@@ -1,11 +1,11 @@
-package com.notion.notion.service;
+package com.quiz.quiz.service;
 
-import com.notion.notion.Model.BaseEntity;
-import com.notion.notion.Model.Dto.common.BaseEntityDto;
-import com.notion.notion.Model.Dto.common.PageDto;
-import com.notion.notion.Model.Dto.search.forms.BaseSearchForm;
-import com.notion.notion.common.BusinessException;
-import com.notion.notion.dao.GenericRepository;
+import com.quiz.quiz.Model.BaseEntity;
+import com.quiz.quiz.Model.Dto.common.BaseEntityDto;
+import com.quiz.quiz.Model.Dto.common.PageDto;
+import com.quiz.quiz.Model.Dto.search.forms.BaseSearchForm;
+import com.quiz.quiz.common.BusinessException;
+import com.quiz.quiz.dao.GenericRepository;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.jpa.domain.Specification;

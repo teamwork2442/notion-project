@@ -1,4 +1,4 @@
-package com.notion.notion;
+package com.quiz.quiz;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

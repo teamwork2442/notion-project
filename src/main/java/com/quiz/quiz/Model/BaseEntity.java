@@ -1,4 +1,4 @@
-package com.notion.notion.Model;
+package com.quiz.quiz.Model;
 
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;

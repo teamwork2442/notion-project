@@ -1,4 +1,4 @@
-package com.notion.notion.Model.Dto.common;
+package com.quiz.quiz.Model.Dto.common;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Getter;
